@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:/Users/Administrator/Dropbox/projects/Symfony_blog/app/config/routing_dev.yml'
